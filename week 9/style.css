@@ -1,0 +1,24 @@
+* {
+    margin: 50;
+    padding: 20;
+    box-sizing: border-box;
+  }
+  
+  /* Mobile Styles */
+  @media only screen and (max-width: 400px) {
+       body { 
+           background-color: blue; /* blue */
+}
+} 
+  /* Tablet Styles */
+  @media only screen and (min-width: 401px) and (max-width: 960px) {
+      body { 
+          background-color: green; /* green */
+    }
+}
+  /* Desktop Styles */
+  @media only screen and (min-width: 961px) { 
+      body {background-color: pink; /* pink */ 
+    }
+}
+  

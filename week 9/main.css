@@ -1,0 +1,49 @@
+body{
+    background-color: red;
+}
+/*
+.mohamed{
+    float: right;
+}
+
+.Bai{
+    float: left;
+}
+*/
+/* .kamara{
+    position: relative;
+    right: 50px;
+    border: 2px solid blue;
+}
+*/
+/*
+.fixed {
+  position: fixed;
+  right: 0;
+  width: 300px;
+  border: 3px solid #73AD21;
+}
+*/
+
+/*
+  div.absolute {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+  }
+  */
+  
+div.sticky {
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color:#122488;
+  border: 2px solid#af4c9e;
+  text-decoration: white;
+}
+
+
+  
